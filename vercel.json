@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "api/ai.js": {"maxDuration": 25},
+    "api/booking.js": {"maxDuration": 10},
+    "api/shop.js": {"maxDuration": 10},
+    "api/price.js": {"maxDuration": 10}
+  },
+  "rewrites": [
+    {"source": "/", "destination": "/index.html"}
+  ]
+}
