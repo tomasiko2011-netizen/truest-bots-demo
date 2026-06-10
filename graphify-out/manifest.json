@@ -1,0 +1,42 @@
+{
+  "/Users/guldana/Documents/New project/truest-bots-demo/api/ai.js": {
+    "mtime": 1774417240.4149864,
+    "ast_hash": "9d95bec6ce9ef36c5c7860d62f7e3bfd",
+    "semantic_hash": "9d95bec6ce9ef36c5c7860d62f7e3bfd"
+  },
+  "/Users/guldana/Documents/New project/truest-bots-demo/api/booking.js": {
+    "mtime": 1774417240.4185925,
+    "ast_hash": "0393b5a0702ec6a4e8bff5dc7f9c7f59",
+    "semantic_hash": "0393b5a0702ec6a4e8bff5dc7f9c7f59"
+  },
+  "/Users/guldana/Documents/New project/truest-bots-demo/api/price.js": {
+    "mtime": 1774417240.4249938,
+    "ast_hash": "a080a6b3d839d1686c304fd3684b9ef8",
+    "semantic_hash": "a080a6b3d839d1686c304fd3684b9ef8"
+  },
+  "/Users/guldana/Documents/New project/truest-bots-demo/api/shop.js": {
+    "mtime": 1774417240.4217541,
+    "ast_hash": "6d36253d39e46f7108f47d0aad53b1bc",
+    "semantic_hash": "6d36253d39e46f7108f47d0aad53b1bc"
+  },
+  "/Users/guldana/Documents/New project/truest-bots-demo/package.json": {
+    "mtime": 1774417242.7976584,
+    "ast_hash": "8bbfd789109e1691fce7ca904fdd6c9c",
+    "semantic_hash": "8bbfd789109e1691fce7ca904fdd6c9c"
+  },
+  "/Users/guldana/Documents/New project/truest-bots-demo/vercel.json": {
+    "mtime": 1774417245.1281965,
+    "ast_hash": "dd37fb41105b8bd94e9d11ffccbab3aa",
+    "semantic_hash": "dd37fb41105b8bd94e9d11ffccbab3aa"
+  },
+  "/Users/guldana/Documents/New project/truest-bots-demo/.github/workflows/ci.yml": {
+    "mtime": 1774946231.9702194,
+    "ast_hash": "9213c311bd10854f186ee39a766933d2",
+    "semantic_hash": "9213c311bd10854f186ee39a766933d2"
+  },
+  "/Users/guldana/Documents/New project/truest-bots-demo/public/index.html": {
+    "mtime": 1774417245.7384286,
+    "ast_hash": "38b06ed772885111b6e2f8e1848e0a92",
+    "semantic_hash": "38b06ed772885111b6e2f8e1848e0a92"
+  }
+}
