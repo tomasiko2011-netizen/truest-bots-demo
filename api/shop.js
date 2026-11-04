@@ -337,7 +337,7 @@ async function handleCheckoutInput(chatId, uid, username, text) {
 // --- Webhook auth ---
 function verifyWebhook(req) {
   const secret = process.env.WEBHOOK_SECRET;
-  if (!secret) return true;
+  if (!secret) return false; // без секрета любой может подделать update от имени админа
   return req.headers['x-telegram-bot-api-secret-token'] === secret;
 }
 
